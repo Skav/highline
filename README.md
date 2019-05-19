@@ -7,7 +7,7 @@ I started this project in 2016. It has been writen in kohana
 ##  History
 
 I wanted to learn programming, my first try was in c++ but it didn't take so long to abandon this idea, then i've started from PHP.
-Actually i never wrote a real site in vanillia PHP, I immediately started with framework before I found out writting with celar PHP had no sense
+Actually i never wrote a real site in vanillia PHP, I immediately started with framework after I found out writting with celar PHP had no sense
 
 ## Ok, but what it is for?
 
