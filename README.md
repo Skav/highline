@@ -2,12 +2,12 @@
 
 ## Years
 
-I start this project in 2016. It is write in kohana
+I started this project in 2016. It has been writen in kohana
 
 ##  History
 
-I want to learn programming, my first try was in c++ but it don't take so long to abandon this idea, then i start from PHP.
-Actually i never write a real site in vanillia PHP, I immediately start with framework before i heard starting with celar PHP have non sens
+I wanted to learn programming, my first try was in c++ but it didn't take so long to abandon this idea, then i've started from PHP.
+Actually i never wrote a real site in vanillia PHP, I immediately started with framework before I found out writting with celar PHP had no sense
 
 ## Ok, but what it is for?
 
