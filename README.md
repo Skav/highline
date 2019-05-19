@@ -1,19 +1,35 @@
-# Kohana PHP Framework
+# My first project
 
-[Kohana](http://kohanaframework.org/) is an elegant, open source, and object oriented HMVC framework built using PHP5, by a team of volunteers. It aims to be swift, secure, and small.
+## Years
 
-Released under a [BSD license](http://kohanaframework.org/license), Kohana can be used legally for any open source, commercial, or personal project.
+I start this project in 2016. It is write in kohana
 
-## Documentation
-Kohana's documentation can be found at <http://kohanaframework.org/documentation> which also contains an API browser.
+##  History
 
-The `userguide` module included in all Kohana releases also allows you to view the documentation locally. Once the `userguide` module is enabled in the bootstrap, it is accessible from your site via `/index.php/guide` (or just `/guide` if you are rewriting your URLs).
+I want to learn programming, my first try was in c++ but it don't take so long to abandon this idea, then i start from PHP.
+Actually i never write a real site in vanillia PHP, I immediately start with framework before i heard starting with celar PHP have non sens
 
-## Reporting bugs
-If you've stumbled across a bug, please help us out by [reporting the bug](http://dev.kohanaframework.org/projects/kohana3/) you have found. Simply log in or register and submit a new issue, leaving as much information about the bug as possible, e.g.
+## Ok, but what it is for?
 
-* Steps to reproduce
-* Expected result
-* Actual result
+it was supposed to be a site for ets2 virtual comapny, then i had not idea what VS' needed so i start from basic.
 
-This will help us to fix the bug as quickly as possible, and if you'd like to fix it yourself feel free to [fork us on GitHub](https://github.com/kohana) and submit a pull request!
+On site we have a:
+
+For users:
+Login, logout and register panel
+Truck info
+User info
+Adding new routes
+Repair panel
+User panel 
+Simple PM's system
+
+For admins:
+Adding users with trucks
+delete users
+Panel for accept driver routes
+permission panel
+
+## and for the end, i know nobody cares about this project v:
+
+
