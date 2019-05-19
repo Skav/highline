@@ -1,0 +1,5 @@
+<?php
+
+Auth::instance()->logout();
+
+?>
