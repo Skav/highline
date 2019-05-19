@@ -16,19 +16,19 @@ it was supposed to be a site for ets2 virtual comapny, then i had not idea what 
 On site we have a:
 
 For users:
-Login, logout and register panel
-Truck info
-User info
-Adding new routes
-Repair panel
-User panel 
-Simple PM's system
+Login, logout and register panel__
+Truck info__
+User info__
+Adding new routes__
+Repair panel__
+User panel __
+Simple PM's system__
 
 For admins:
-Adding users with trucks
-delete users
-Panel for accept driver routes
-permission panel
+Adding users with trucks__
+delete users__
+Panel for accept driver routes__
+permission panel__
 
 ## and for the end, i know nobody cares about this project v:
 
